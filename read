@@ -8,6 +8,7 @@ sum=a=b;
 printf("result",&sum);
 printf("Program Made By Rahul");
 printf("this is to show the pull operation function");
+printf("this is used to show the push operation");
 getch();
 }
 
