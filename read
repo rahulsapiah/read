@@ -1,0 +1,12 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+int a=2,b=4;
+int sum=0;
+sum=a=b;
+printf("result",&sum);
+printf("Program Made By Rahul");
+getch();
+}
+
